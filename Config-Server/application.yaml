@@ -4,3 +4,7 @@ spring:
 db: 
  username: vanamvijay23
  password: vijay23
+
+
+encrypt: 
+   key: vijay23
